@@ -1,0 +1,25 @@
+*.class
+
+# Project-specific folders
+.idea/
+out/
+kikko-service/win/kikko.fts/obj/
+kikko-service/win/kikko.fts/output/
+
+# Project-specific files
+kikko-service/win/kikko.fts/kikko.fts.suo
+kikko-service/win/kikko.fts/kikko.fts.csproj.user
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+# *.jar
+# *.war
+# *.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+target
+*.iml
