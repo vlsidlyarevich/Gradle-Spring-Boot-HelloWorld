@@ -1,4 +1,4 @@
-#Gradle based Spring Boot Hello World
+# Gradle based Spring Boot Hello World
 
 ##### Use gradle to build the project, type:
 
